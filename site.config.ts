@@ -11,14 +11,14 @@ export default siteConfig({
   // basic site info (required)
   name: 'HungLee',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  author: 'HungLee',
 
   // open graph metadata (optional)
   description: 'HungLee Blog',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
+  twitter: '',
+  github: '',
   linkedin: 'viet-hung-le-b5b110a2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
